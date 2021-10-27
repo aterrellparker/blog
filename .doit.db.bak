@@ -59,3 +59,6 @@
 'render_sources:output\\posts\\first-post\\index.rst', (55808, 248)
 'render_posts:cache\\posts\\first-post.html', (56320, 363)
 'render_pages:output\\posts\\first-post\\index.html', (60928, 5551)
+'render_pages:output\\posts\\test-post-2\\index.html', (67584, 5556)
+'render_sources:output\\posts\\test-post-2\\index.rst', (77312, 250)
+'render_posts:cache\\posts\\test-post-2.html', (77824, 366)

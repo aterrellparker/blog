@@ -7,30 +7,34 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://atparker.me/</loc>
-  <lastmod>2021-10-25T03:51:00Z</lastmod>
+  <lastmod>2021-10-27T06:28:00Z</lastmod>
  </url>
  <url>
   <loc>https://atparker.me/2021/</loc>
-  <lastmod>2021-10-25T03:51:00Z</lastmod>
+  <lastmod>2021-10-27T06:28:00Z</lastmod>
  </url>
  <url>
   <loc>https://atparker.me/archive.html</loc>
-  <lastmod>2021-10-25T03:51:00Z</lastmod>
+  <lastmod>2021-10-27T06:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://atparker.me/categories/</loc>
-  <lastmod>2021-10-25T03:49:00Z</lastmod>
+  <lastmod>2021-10-27T06:28:00Z</lastmod>
  </url>
  <url>
   <loc>https://atparker.me/galleries/</loc>
-  <lastmod>2021-10-25T03:49:00Z</lastmod>
+  <lastmod>2021-10-27T06:28:00Z</lastmod>
  </url>
  <url>
   <loc>https://atparker.me/listings/</loc>
-  <lastmod>2021-10-25T03:49:00Z</lastmod>
+  <lastmod>2021-10-27T06:28:00Z</lastmod>
  </url>
  <url>
   <loc>https://atparker.me/posts/first-post/</loc>
-  <lastmod>2021-10-25T03:51:00Z</lastmod>
+  <lastmod>2021-10-27T06:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://atparker.me/posts/test-post-2/</loc>
+  <lastmod>2021-10-27T06:30:00Z</lastmod>
  </url>
 </urlset>
